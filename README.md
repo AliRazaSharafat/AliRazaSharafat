@@ -4,9 +4,8 @@
 **AliRazaSharafat/AliRazaSharafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 👋 Hi, I’m @AliRazaSharafat
-- 🔭 I’m currently working on React Js, Node Js, Express Js, MongoDb, React Native
-- 🌱 I’m currently learning react-native
-- 👯 I’m looking to collaborate on open-source or private projects in MERN stack domain
+- 🔭 I’m currently working on React Js, Node Js, Express Js, MongoDb, React Native, Golang
+- 👯 I’m looking to collaborate on open-source or private projects in MERN stack & Golang domain
 - 🤔 I’m looking for help with blockchain
 - 💬 Ask me to join your team
 - 📫 How to reach me:
